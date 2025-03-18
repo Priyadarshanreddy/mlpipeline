@@ -4,7 +4,7 @@
 a) StatQuest with Josh Starmer
 Link: https://www.youtube.com/c/StatQuest
 
-b) Krish Naik
+b) Krish Naik  
 Link: https://www.youtube.com/c/KrishNaik
 
 c) Ken Jee
