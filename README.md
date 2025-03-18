@@ -2,80 +2,50 @@
 
 1. Data Science
 a) StatQuest with Josh Starmer
-Brief: Simplifies statistics, machine learning, and data science concepts with clear explanations and visuals.
-
-Link: StatQuest
+Link: https://www.youtube.com/c/StatQuest
 
 b) Krish Naik
-Brief: Provides end-to-end data science tutorials, machine learning, and AI with a focus on practical, industry-relevant content.
-
-Link: Krish Naik
+Link: https://www.youtube.com/c/KrishNaik
 
 c) Ken Jee
-Brief: Focuses on data science career advice, projects, and tutorials, offering actionable insights for aspiring data scientists.
-
-Link: Ken Jee
+Link: https://www.youtube.com/c/KenJee1
 
 2. Machine Learning (ML)
 a) Andrej Karpathy
-Brief: Former Director of AI at Tesla, shares deep learning, neural networks, and AI research insights.
-
-Link: Andrej Karpathy
+Link: https://www.youtube.com/c/AndrejKarpathy
 
 b) Sentdex (Harrison Kinsley)
-Brief: Practical tutorials on implementing ML algorithms and building real-world projects using Python.
-
-Link: Sentdex
+Link: https://www.youtube.com/c/sentdex
 
 c) DeepLearning.AI
-Brief: Founded by Andrew Ng, offers high-quality courses on deep learning, AI, and machine learning.
-
-Link: DeepLearning.AI
+Link: https://www.youtube.com/c/Deeplearningai
 
 3. Artificial Intelligence (AI)
 a) Two Minute Papers (Károly Zsolnai-Fehér)
-Brief: Simplifies cutting-edge AI research papers into digestible, 2-minute videos.
-
-Link: Two Minute Papers
+Link: https://www.youtube.com/c/KárolyZsolnaiFehér
 
 b) Yannic Kilcher
-Brief: In-depth analysis of the latest AI research papers and trends in machine learning and NLP.
-
-Link: Yannic Kilcher
+Link: https://www.youtube.com/c/YannicKilcher
 
 c) Lex Fridman
-Brief: AI research, interviews with AI experts, and deep dives into AI topics.
-
-Link: Lex Fridman
+Link: https://www.youtube.com/c/lexfridman
 
 4. Natural Language Processing (NLP)
 a) Rasa
-Brief: Official channel of Rasa, focusing on NLP, conversational AI, and chatbot development.
-
-Link: Rasa
+Link: https://www.youtube.com/c/RasaHQ
 
 b) Hugging Face
-Brief: Tutorials and updates on NLP, transformers, and pre-trained models.
-
-Link: Hugging Face
+Link: https://www.youtube.com/c/HuggingFace
 
 c) Chris McCormick
-Brief: Detailed tutorials on implementing NLP models and understanding transformer architectures like BERT.
-
-Link: Chris McCormick
+Link: https://www.youtube.com/c/ChrisMcCormickAI
 
 5. General AI and ML
 a) Andrew Ng
-Brief: Pioneer in AI, co-founder of Coursera and DeepLearning.AI, shares insights on machine learning and AI.
-
-Link: Andrew Ng
+Link: https://www.youtube.com/c/AndrewNgML
 
 b) 3Blue1Brown (Grant Sanderson)
-Brief: Visual explanations of the mathematics behind machine learning and AI.
-
-Link: 3Blue1Brown
+Link: https://www.youtube.com/c/3blue1brown
 
 c) Siraj Raval
-Brief: Makes AI and machine learning accessible and fun for beginners through coding tutorials and challenges.
-
-Link: Siraj Raval
+Link: https://www.youtube.com/c/SirajRaval
