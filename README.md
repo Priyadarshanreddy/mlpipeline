@@ -49,3 +49,18 @@ Link: https://www.youtube.com/c/3blue1brown
 
 c) Siraj Raval
 Link: https://www.youtube.com/c/SirajRaval
+
+
+Arrays: Sliding window, two pointers, binary search, sorting, greedy algorithms
+
+Strings: Palindromes, pattern matching
+
+Stacks and queues: Next greater/smaller element, BFS, flood fill
+
+Trees: Binary trees, BSTs, traversals
+
+Graphs: DFS, BFS, Dijkstra’s, MST (Prim’s/Kruskal’s), DSU
+
+Heaps: Min/max heap, Kth smallest/largest element
+
+Recursion and backtracking (very very important): Permutations and combination
